@@ -1,5 +1,7 @@
+import Pokedex from './components/Pokedex/Pokedex';
+
 function App() {
-    return <>pokedex</>;
+    return <Pokedex />;
 }
 
 export default App;
